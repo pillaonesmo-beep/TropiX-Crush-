@@ -39,4 +39,4 @@ If you want to run this project on your own computer:
 4.  Earn as many points as possible before you run out of moves!
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Onesmûs]
